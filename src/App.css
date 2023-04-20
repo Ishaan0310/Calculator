@@ -1,0 +1,48 @@
+.header
+{
+  text-align: center;
+}
+
+.App
+{
+  /* margin-left: 25vw;
+  margin-right: 25vw; */
+  background-color: rgb(92, 163, 163);
+  background-size:cover;
+  
+}
+.bx{
+  padding-left: 510px;
+  padding-top: 5rem;
+}
+.header{
+text-decoration: underline;
+font-size: larger;
+}
+.textbox
+{
+  align-items:center;
+  padding-top: 1rem;
+  
+  
+}
+.textbox1
+{
+  align-items:center;
+  padding-top: 1rem;
+  font-size: large;
+}
+
+.dropdown
+{
+  padding-top: 1rem;
+}
+
+.button
+{
+  padding-top: 2rem;
+  margin-left: auto;
+  padding-left: 40%;
+  
+}
+.text-alligned{text-align: center;}
